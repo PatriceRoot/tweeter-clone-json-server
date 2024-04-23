@@ -18,7 +18,7 @@
           "retweet": "144",
           "react": "184",
           "share": "",
-          "state":"true"
+          "state":true
         },
         "tweet_text": "President Joe Biden touted a new agreement reached with the European Union to ease Trump-era tariffs on aluminum and steel as a 'major breakthrough' that would serve to both strengthen the US steel industry and combat the global climate crisis."
       }
@@ -35,7 +35,7 @@
           "retweet": "48",
           "react": "482",
           "share": "",
-          "state":"true"
+          "state":true
         },
         "tweet_text": "Gardening boomed during the pendemic. Six Black writters share how haw helped them re-establish, and reimagine, a connection to cultivation and the land.",
         "tweet_image": "/Post.png"
@@ -53,7 +53,7 @@
           "retweet": "36.6K",
           "react": "267",
           "share": "",
-          "state":"true"
+          "state":true
         },
         "tweet_text": "BIG NEWS lol jk still Twitter."
       }
@@ -70,7 +70,7 @@
           "retweet": "785.4K.",
           "react": "3",
           "share": "",
-          "state":"true"
+          "state":true
         },
         "tweet_text": "Hello litteraly everyone."
       }
@@ -87,7 +87,7 @@
           "retweet": "144",
           "react": "184",
           "share": "",
-          "state":"true"
+          "state":true
         },
         "tweet_text": "Hello litteraly everyone."
       }
@@ -104,7 +104,7 @@
           "retweet": "0",
           "react": "0",
           "share": "",
-          "state": "true"
+          "state": true
         },
         "tweet_text": "Hey"
       }
@@ -121,7 +121,7 @@
           "retweet": "0",
           "react": "0",
           "share": "",
-          "state": "true"
+          "state": true
         },
         "tweet_text": "Hello"
       }
@@ -138,7 +138,7 @@
           "retweet": "0",
           "react": "0",
           "share": "",
-          "state": "true"
+          "state": true
         },
         "tweet_text": "Okay"
       }
